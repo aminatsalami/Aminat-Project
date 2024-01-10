@@ -1,0 +1,574 @@
+#container{
+    width: 100%;
+    height: 80px;
+    background-color: purple;
+    
+    
+    
+}
+.container2{
+    width: 100%;
+    height: 30px;
+    background-color: #ff0000;
+    
+    
+}
+.box{
+    background-color: rgba(0, 0, 0, 0.821);
+    position: absolute;
+    height: 500px;
+    width: 99%;
+}
+.store{
+    color: orangered;
+    font-size: 40px;
+    font-family: 'poppins';
+    margin-top: 100px;
+    margin-left: 480px;
+    position: absolute;
+}
+.free{
+    color: yellow;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 180px;
+    margin-left: 470px;
+    position: absolute;
+}
+.get{
+    color: white;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 350px;
+    margin-left: 240px;
+    position: absolute;
+    
+} 
+.save{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    margin-left: 480px;
+    position: absolute;
+}
+.logo{
+    position: absolute;
+    margin-top: 15px;
+    width: 60px;
+    height: 50px;
+    margin-left: 50px;
+    border-radius: 30px;
+}
+.best{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    margin-left: 150px;
+    position: absolute;
+}
+.shop{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    margin-left: 330px;
+    position: absolute;
+}
+.new{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    margin-left: 530px;
+    position: absolute;
+}
+.logic{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    margin-left: 700px;
+    position: absolute;
+}
+.img1{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 75%;
+    border-radius: 50px;
+    position: absolute;
+}
+.img2{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 80%;
+    
+    position: absolute;
+}
+.img3{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 85%;
+    border-radius: 50px;
+    position: absolute;
+}
+.img4{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 90%;
+    border-radius: 60px;
+    position: absolute;
+}
+#container3{
+    width: 99%;
+    height: 50px;
+    background-color: yellow;
+    position: absolute;
+    margin-top: 38%;
+    
+    
+}
+.product{
+    margin-top: 10px;
+    margin-left: 40%;
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.stock1{
+    position: absolute;
+    margin-top: 45%;
+     width: 300px;
+     height: 200px;
+
+}
+.stock2{
+    position: absolute;
+    margin-top: 45%;
+     width: 300px;
+     height: 200px;
+     margin-left: 25%;
+
+}
+.stock3{
+    position: absolute;
+    margin-top: 45%;
+     width: 300px;
+     height: 200px;
+     margin-left: 50%;
+
+}
+.stock4{
+    position: absolute;
+    margin-top: 45%;
+     width: 300px;
+     height: 200px;
+     margin-left: 75%;
+
+}
+.stock5{
+    position: absolute;
+    margin-top: 65%;
+     width: 300px;
+     height: 200px;
+
+}
+.stock6{
+    position: absolute;
+    margin-top: 65%;
+     width: 300px;
+     height: 200px;
+     margin-left: 25%;
+
+}.stock7{
+    position: absolute;
+    margin-top: 65%;
+     width: 300px;
+     height: 200px;
+     margin-left: 50%;
+
+}.stock8{
+    position: absolute;
+    margin-top: 65%;
+     width: 300px;
+     height: 200px;
+     margin-left: 75%;
+
+}
+.stock9{
+    position: absolute;
+    margin-top: 85%;
+     width: 300px;
+     height: 200px;
+
+}
+.stock10{
+    position: absolute;
+    margin-top: 85%;
+     width: 300px;
+     height: 200px;
+     margin-left: 25%;
+
+}.stock11{
+    position: absolute;
+    margin-top: 85%;
+     width: 300px;
+     height: 200px;
+     margin-left: 50%;
+
+}.stock12{
+    position: absolute;
+    margin-top: 85%;
+     width: 300px;
+     height: 200px;
+     margin-left: 75%;
+
+}
+.instock{
+    position: absolute;
+    margin-top: 102%;
+    margin-left: 42%;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bag1{
+    position: absolute;
+    margin-top: 108%;
+    width: 300px;
+    height: 200px;
+}
+.bag2{
+    position: absolute;
+    margin-top: 108%;
+    width: 300px;
+    height: 200px;
+    margin-left: 25%;
+}
+.bag3{
+    position: absolute;
+    margin-top: 108%;
+    width: 300px;
+    height: 200px;
+    margin-left: 50%;
+}
+.bag4{
+    position: absolute;
+    margin-top: 108%;
+    width: 300px;
+    height: 200px;
+    margin-left: 75%;
+}
+.bag5{
+    position: absolute;
+    margin-top: 127%;
+    width: 300px;
+    height: 200px;
+}
+.bag6{
+    position: absolute;
+    margin-top: 127%;
+    width: 300px;
+    height: 200px;
+    margin-left: 25%;
+}
+.bag7{
+    position: absolute;
+    margin-top: 127%;
+    width: 300px;
+    height: 200px;
+    margin-left: 50%;
+}
+.bag8{
+    position: absolute;
+    margin-top: 127%;
+    width: 300px;
+    height: 200px;
+    margin-left: 75%;
+}
+.bag9{
+    position: absolute;
+    margin-top: 146%;
+    width: 300px;
+    height: 200px;
+}
+.bag10{
+    position: absolute;
+    margin-top: 146%;
+    width: 300px;
+    height: 200px;
+    margin-left: 25%;
+}
+.bag11{
+    position: absolute;
+    margin-top: 146%;
+    width: 300px;
+    height: 200px;
+    margin-left: 50%;
+}
+.bag12{
+    position: absolute;
+    margin-top: 146%;
+    width: 300px;
+    height: 200px;
+    margin-left: 75%;
+}
+.container4{
+    margin-top: 170%;
+    width: 100%;
+    height: 400px;
+    background-color: purple;
+    position: absolute;
+}
+.content1{
+    width: 370px;
+    height: 335px;
+    position: absolute;
+    background-color: rgba(231, 34, 231, 0.685);
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.content2{
+    width: 370px;
+    height: 335px;
+    position: absolute;
+    background-color: rgba(231, 34, 231, 0.685);
+    margin-top: 30px;
+    margin-left: 480px;
+}
+.content3{
+    width: 370px;
+    height: 335px;
+    position: absolute;
+    background-color: rgba(231, 34, 231, 0.685);
+    margin-top: 30px;
+    margin-left: 910px;
+}
+.about{
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: 'poppins';
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.line{
+    background-color: white;
+    position: absolute;
+    margin-top: 55px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.about2{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.line2{
+    background-color: white;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.contact{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 116px;
+    margin-left: 20px;
+}
+.line3{
+    background-color: white;
+    position: absolute;
+    margin-top: 215px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.ship{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 225px;
+    margin-left: 20px;
+}
+.line4{
+    background-color: white;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.privacy{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 270px;
+    margin-left: 20px;
+}
+.line5{
+    background-color: white;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.help{
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: 'poppins';
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.about2{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.line2{
+    background-color: white;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.contact{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 116px;
+    margin-left: 20px;
+}
+.line3{
+    background-color: white;
+    position: absolute;
+    margin-top: 215px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.ship{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 225px;
+    margin-left: 20px;
+}
+.line4{
+    background-color: white;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.privacy{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 270px;
+    margin-left: 20px;
+}
+.line5{
+    background-color: white;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.key{
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: 'poppins';
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.about2{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.line2{
+    background-color: white;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.contact{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 116px;
+    margin-left: 20px;
+}
+.line3{
+    background-color: white;
+    position: absolute;
+    margin-top: 215px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.ship{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 225px;
+    margin-left: 20px;
+}
+.line4{
+    background-color: white;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
+.privacy{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: 'poppins';
+    margin-top: 270px;
+    margin-left: 20px;
+}
+.line5{
+    background-color: white;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 20px;
+    width: 320px;
+    height: 1px;
+}
